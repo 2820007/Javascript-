@@ -1,0 +1,47 @@
+<!-- Output method -->
+ -there are 3 ways 
+ 1.console.log
+  -in console
+ 2.alert ma 
+ 3.document ma 
+
+  <!--Input method  -->
+   -prompt le garinchha
+
+
+   <!-- Variable -->
+     -varable is conatiner to store value of data types.
+      
+      <!-- method for naming variabel -->
+       1._, $ ,char,num
+       -but number cannot be used at first
+       and use camlecase
+
+
+
+  <!--Data types  -->
+    there are main 2 types 
+    1.Premitive(already defined and cannot be changed)
+    2.Non-premmitive(making from premitive)
+
+<!--Premitive  -->
+ -String
+   -we can declare string 
+      name="ravi" for single line
+      multi line ko lagi 
+      backtick use garne 
+      ` multi line `
+
+
+
+ -Number
+ -Boolean
+ -Null
+ -Undefined
+ -BigInt
+ -Symbol
+
+<!-- Non Premitive -->
+ 1.Array
+ 2.Object
+ 3.
