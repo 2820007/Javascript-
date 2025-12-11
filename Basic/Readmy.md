@@ -32,16 +32,29 @@
       backtick use garne 
       ` multi line `
 
-
-
  -Number
  -Boolean
- -Null
+ -Null 
+   - means empty 
+   -user defined
+   -data type is object and its js buggs
+   -for object ko lagi use garne
+
  -Undefined
+   -By the javascript undefined matlab khali hux
+   -without object all data types rakhn sakinx..
+
  -BigInt
  -Symbol
+   -for unique and immutable  data ko lagi 
+     eg. userId
 
 <!-- Non Premitive -->
  1.Array
+
  2.Object
- 3.
+    -Two object are not same because they are refrence other variable
+       -eg. user1 == user2 gives false
+       
+ 3.Function
+ 4.Date
