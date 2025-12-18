@@ -51,10 +51,29 @@
 
 <!-- Non Premitive -->
  1.Array
+    -collection of hetrogenious data 
+    -data types object nai dinx due to index ko karan
+
 
  2.Object
     -Two object are not same because they are refrence other variable
        -eg. user1 == user2 gives false
        
  3.Function
+   -
  4.Date
+
+
+<!-- Let ,var ,const -->
+
+ <!-- var -->
+   -var ma global scope x
+   - can reassign and redeclear 
+   <!-- let  -->
+     -in let function or block  scope
+     -can reassign but canot redeclear
+
+     <!--const  -->
+     -block or function  scope
+     -cannot reassign and redeclear
+
