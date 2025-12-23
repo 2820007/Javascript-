@@ -77,3 +77,15 @@
      -block or function  scope
      -cannot reassign and redeclear
 
+
+     <!-- hoisting -->
+      -pahila nai excution garnaunu ani paxi decarration garne
+      - only var hoist hunchha..
+
+
+
+
+      <!-- operator -->
+      -comparision
+      - === strictly check for data types
+
