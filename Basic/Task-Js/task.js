@@ -296,21 +296,21 @@
 
 // 24. Prime Check: Write an `if-else` statement to check if a number is greater than 1 and divisible only by
 // 1 and itself. Print "Prime" if true, otherwise "Not prime."
-let num = 7;
+// let num = 7;
 
-isPrime=false
-for(let i=2; i<num; i++){
-    if(num%i ==0){
-        console.log("not prime")
+// isPrime=false
+// for(let i=2; i<num; i++){
+//     if(num%i ==0){
+//         console.log("not prime")
         
-        isPrime=true
-    }
+//         isPrime=true
+//     }
     
-}
+// }
 
-if(isPrime == false){
-    console.log("prime")
-}
+// if(isPrime == false){
+//     console.log("prime")
+// }
 
 
 

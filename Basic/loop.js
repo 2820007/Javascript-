@@ -60,15 +60,31 @@ console.log("loop in js")
 //     }
    
 // }
-//  console.log(sum)
+// //  console.log(sum)
 
 
-for(let i=1; i<10; i++){
-    console.log(`5 x ${i} = ${5*i}`)
-}
+// for(let i=1; i<10; i++){
+//     console.log(`5 x ${i} = ${5*i}`)
+// }
     
 
 
 
 //2.While loop
+
+//   let i=0;
+//   while(i<=5){
+//     console.log(i)
+//     i++
+
+//   }
+
+//2.dok while
+//  let i=0;
+//  do{
+    // console.log(i)
+    // i++
+//  }while(i<=5)
+
+
 
