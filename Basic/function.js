@@ -206,6 +206,84 @@
 //   const add=(a,b)=>a+b
 //   console.log(add(4,4))
 
+// (function(){
+//     console.log("hello") //Immidiatly Invoke function
+// }
+// )()
+
+
+
+//Inner and Outer Function
+
+// function outer(){
+//     function inner(){
+//         console.log("inner function")
+//     }
+//     return inner
+// }
+
+// const inner=outer()
+// inner()
+
+
+
+//CallBack function
+
+
+// const first=()=>{
+//     console.log("first")
+// }
+
+
+// const second=()=>{
+//     console.log("second")
+// }
+// second(first())
+
+
+
+// const second=(f,x)=>{
+//     f(x)
+//     console.log("second")
+// }
+
+
+//  second((a)=>{
+//     console.log("first",a)
+
+//  },120)
+
+
+// const evenOrodd=(f,x)=>{
+//     f(x)
+
+// }
+// evenOrodd((a)=>{
+//     if(a%2==0){
+//         console.log("even")
+//     }
+//     else{
+//         console.log("odd")
+//     }
+
+// },10)
+
+
+// setInterval(()=>{
+//     console.log("setInterval");
+
+// },1000)
+
+//Default parameterized function
+// const add=(a,b=56)=>{
+//     console.log(a+b)
+
+// }
+// add(23)
+
+
+
+
 
 
 
