@@ -165,10 +165,16 @@
     
 // 16. Write a function that squares each number in an array using `map`.
     //  let arr=[2,3,4,5,6,7,8]
-    //  const sqrArr=arr.map((item)=>{
-    //     return item*2
-    //  })
-    //  console.log(sqrArr)
+    //  const sqrArr=(arr)=>{
+    //     arr.forEach(item => {
+    //         console.log(item*item)
+            
+    //     });
+
+    //  }
+
+    
+    //  console.log(sqrArr(arr))
 
 
 
@@ -180,14 +186,23 @@
     //  
       
 // 18. Write a function that uses `forEach` to calculate the sum of an array of numbers.
-    // let arr = [10, 20, 30, 40];
-    // let sum=0
-    // const sumArray=arr.forEach((item)=>{
-    //     sum =sum+item
+//     let arr = [10, 20, 30, 40];
+//     let sum=0
+//     const sumArray=(arr)=>{
+//         arr.forEach(item => {
+//             sum =sum+item
+            
+            
+//         });
+//         console.log(sum)
+       
+
+//     }
+    
 
        
-//     // })
-//     // console.log(sum)
+
+// sumArray(arr)
 
 
 
@@ -240,12 +255,15 @@
 // 24. Write a function that uses `forEach` to log numbers greater than 10 from an array.
     //    let arr=[2,3,4,5,6,12,3,44,56,8]
    
-    //  const newArray=arr.forEach((item)=>{
-    //     if(item>10){
-    //         console.log(item)
-    //     }
-    //  })
+    //  const newArray=(arr)=>{
+    //     arr.forEach(item => {
+    //         if(item>10){
+    //             console.log(item)
+    //         }
+    //     });
+    //  }
      
+    //  newArray(arr)
 // 25. Use `forEach` to concatenate all strings in an array into a single string and log it.
 // let str = ["ravi", "anup", "radha", "niraj"];
 //    let concatStr = "";
