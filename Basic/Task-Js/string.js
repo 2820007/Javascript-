@@ -238,16 +238,16 @@
 
 // 18. Write a program that replaces the first 3 characters of a string with "ABC" using slicing and `if-else`
 // statements.
-//    let str = "Hello Everyone"
-// let newStr = ""
+   let str = "Hello Everyone"
+let newStr = ""
 
-// if (str.length >= 3) {
-//     newStr = "ABC" + str.slice(3)
-// } else {
-//     newStr = str
-// }
+if (str.length >= 3) {
+    newStr = "ABC" + str.slice()
+} else {
+    newStr = str
+}
 
-// console.log(newStr)
+console.log(newStr)
 
 // 19. Create a program that uses a loop to reverse a string and print the reversed string.
 

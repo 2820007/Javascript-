@@ -82,6 +82,45 @@
 
 
 
+// //array destructing
+
+// let arr=[1,2,3]
+// const [a,b,c,]=arr;
+// console.log(a,b,c)
+
+// const  obj={
+//    name:"ravi",
+//    age:34
+// }
+// const {name,age}=obj
+// console.log(name,age)
+
+//spread operator-copy the value only from array and object
+
+//  let arr1=[3,4,5]
+//  const arr2=[...arr1,34]
+//  console.log(arr2)
+
+
+// const  obj={
+//    name:"ravi",
+//    age:34
+// }
+// const user={
+//    ...obj,
+//    phoneNo:984987487
+// }
+// console.log(user)
+
+//Rest operator -handle dynamic data in function parameter
+
+// const add=(...x)=>{ // it gives an array as return
+//    console.log(x.reduce((acc,item)=>{
+//       return acc+item
+//    }))
+// }
+// add(12,22,33,3,30,100,45,55,44,66,90)
+
 
 
 
