@@ -89,3 +89,11 @@
       -comparision
       - === strictly check for data types
 
+
+      <!-- InnerHtml -->
+       -html element nai change hunx
+
+       <!-- innerText -->
+       --only content
+
+
